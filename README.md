@@ -1,2 +1,4 @@
 # JavaScript_basic
-JavaScript_basic_practice
+This is the practice coding for JavaScript.
+
+
